@@ -31,8 +31,8 @@ class _SplashScreenState extends State<SplashScreen> {
 
 /*
 The splash screen color and the image placeholders are temporary and 
-will be updated in accordance to the finalised theme among the best 
-theme!
+will be updated in accordance to the finalised theme among all the submitted 
+themes!
 The right to choice of theme rests with the maintainers and all
 contributors must adhere to it. 
 */
